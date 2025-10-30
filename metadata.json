@@ -1,0 +1,5 @@
+{
+  "name": "Dish & Dose: Food-Drug Interaction Advisor",
+  "description": "An AI-powered advisor to help users identify and understand potential interactions between their medications and food/beverages, providing clear explanations and safety recommendations.",
+  "requestFramePermissions": []
+}
